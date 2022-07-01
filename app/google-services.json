@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "217228416407",
+    "project_id": "imageuploadingapp-2893a",
+    "storage_bucket": "imageuploadingapp-2893a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:217228416407:android:b163a43767e8232032a0d2",
+        "android_client_info": {
+          "package_name": "com.example.tikweb"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "217228416407-9h2ffgpvffkl5enuqvfia83406v1v7p6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.tikweb",
+            "certificate_hash": "026108c214de028ede49c5ab1fa101a09c0a2c90"
+          }
+        },
+        {
+          "client_id": "217228416407-uaqmsunrla2k2ljar3a7ssr0ffdddoq5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCNHQrcEf5aGeiYl-x65SKb1MMFS0oDILY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "217228416407-uaqmsunrla2k2ljar3a7ssr0ffdddoq5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
